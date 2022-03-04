@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'PDFViewer';
+  srcPDF = 'https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf';
+
 }
